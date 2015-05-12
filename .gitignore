@@ -1,0 +1,6 @@
+*.vmps.xml
+*.opensdf
+*.vcxproj
+*.filters
+*.vsarduino.h
+*.sdf
